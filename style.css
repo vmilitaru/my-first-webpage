@@ -48,7 +48,9 @@ p{
     line-height: 25px;
 }
 a{
-    color: lightblue;
+    color: skyblue;
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
 } 
 h2{
     font-family: 'Lobster Two', cursive; 
